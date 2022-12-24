@@ -15,12 +15,6 @@ I'm currently working on a Sudoku game.<br>I'm also at the final stage of learni
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hadibtf&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=hadibtf&icon=0&color=8)](https://visitcount.itsvg.in)
 
